@@ -1,6 +1,14 @@
 # Ubuntu 24.04 on BPI-F3 from SD-Card and running from NVME
-# Updated Aug 12th 2024
+# Updated Aug 21st 2024
 
+
+**The Short Version**
+
+Download the initrd.gz from the files directory. Rename it to the same name of the initrd in the boot directory, I would backup the original first. Once you replace it follow the instructions below to download the corrent version of Ubuntu. Flash it to your m.2 and then boot your system from Micro SD Card which is where you replaced the initrd and boot from it.
+<br>
+
+**Long Version**
+<br>
 Ubuntu 24.04 is now running on my BPI-F3. Will be working on a video for YouTube soon.
 
 This should work for any version of Linux, this has only been tested with Ubuntu 24.04
