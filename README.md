@@ -4,7 +4,7 @@
 
 **The Short Version**
 
-Download the initrd.gz from the files directory. Rename it to the same name of the initrd in the boot directory, I would backup the original first. Once you replace it follow the instructions below to download the correct version of Ubuntu. Flash it to your m.2 and then boot your system from Micro SD Card which is where you replaced the initrd and boot from it.
+Download the initrd.gz from the files [Image](https://github.com/rcman/BPI-F3/blob/main/files/initrd.gz) directory. Rename it to the same name of the initrd in the boot directory, I would backup the original first. Once you replace it follow the instructions below to download the correct version of Ubuntu. Flash it to your m.2 and then boot your system from Micro SD Card which is where you replaced the initrd and boot from it.
 <br>
 
 **Long Version**
