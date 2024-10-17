@@ -10,6 +10,7 @@ The only one that's running Ubuntu (24.10) right from the NVME is the Star Five 
 <br>
 Looking to start my Youtube channel soon. 
 <br>
+<br>
 Here's a description how I have my Banana PI-F3 Running Ubuntu 24.04.  This should also work with 24.10.  I release it would be easier to upload my SD Card image so I'll do that shortly. <br>
 
 
