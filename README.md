@@ -4,7 +4,7 @@
 
 A little about me....I'm an old school guy who likes things simple.  I've got a lot of systems, ranging from my 1950X threadripper, Mac Pro, iMac and all are running Linux usually Ubuntu. <br>
 <br>
-I have three RISC-V boards now, a Banana PI-F3, Lechee PI 4A Laptop and Star five vision 2. I'll be honest it's been a real struggle with the RISC-V boards. They're not well supported and getting them upgraded to Ubuntu has been difficult.<br>
+Three RISC-V boards, a Banana PI-F3, Lechee PI 4A Laptop and Star five vision 2. I'll be honest it's been a struggle with the RISC-V boards. They're not well supported and getting them upgraded to Ubuntu has been difficult.<br>
 <br>
 The only one that's running Ubuntu (24.10) right from the NVME is the Star Five Vision 2 but the HDMI still doesn't work. I've ordered some HDMI 2.1 cables to see if that makes a difference so we'll see.<br>
 <br>
