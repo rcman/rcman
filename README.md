@@ -9,7 +9,8 @@ Three RISC-V boards, a Banana PI-F3, Lechee PI 4A Laptop and Star five vision 2.
 The only one that's running Ubuntu (24.10) right from the NVME is the Star Five Vision 2 but the HDMI still doesn't work. I've ordered some HDMI 2.1 cables to see if that makes a difference so we'll see.<br>
 <br>
 Looking to start my Youtube channel soon. 
-
+<br>
+Here's a description how I have my Banana PI-F3 Running Ubuntu 24.04.  This should also work with 24.10.  I release it would be easier to upload my SD Card image so I'll do that shortly. <br>
 
 
 **The Short Version**
