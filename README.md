@@ -4,5 +4,6 @@
 # Assembler: Amiga 68000 Assembler<br>
 # how to: Tips, notes for Ubuntu, Fedora on fixing plus some configurations<br>
 # Game Code:  Soon to add Godot code, Game code for SDL2, Java and Perl<br>
+# RISC-V : Banana PI BPI-f3, Lichee PI and Star Five Vision 2 work/code/scripts<br>
 
 Let me know if you would like me to add more of something
