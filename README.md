@@ -5,5 +5,6 @@
 # how to: Tips, notes for Ubuntu Here's my Linux [scripts](https://github.com/rcman/Linux_Stuff/tree/main/My_automated_scripts) , Fedora on fixing plus some configurations<br>
 # Game Code:  Soon to add Godot code, Game code for SDL2 Here's my SDL2 Game [Code](https://github.com/rcman/SDL2_2025), Java and Perl<br>
 # RISC-V : Banana PI BPI-f3, Here's my random Lichee Pi 4A [stuff](https://github.com/rcman/LicheePi4A) Lichee PI and Star Five Vision 2 work/code/scripts<br>
+# Borland C Code [here](https://github.com/rcman/BorlandC_Code) 
 
 Let me know if you would like me to add more of something
