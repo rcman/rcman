@@ -1,5 +1,5 @@
 # Source Code for SDL1, SDL2, Allegro<br>
-# Scripts: Here's my random Fedora Scripts [scripts](https://github.com/rcman/fedora) scripts Fedora, Ubuntu, Linux on Mac<br>
+# Scripts: Here's my random Fedora Scripts [scripts](https://github.com/rcman/fedora) Fedora, Ubuntu, Linux on Mac<br>
 # Basic Code: Amiga Basic, Color Maximite 2, Qbasic<br>
 # Assembler: Amiga 68000 Assembler<br>
 # how to: Tips, notes for Ubuntu, Fedora on fixing plus some configurations<br>
