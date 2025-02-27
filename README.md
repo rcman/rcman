@@ -8,6 +8,6 @@ Also Super Grok Images
 
 <br>
 
-Love me platform games.
+Love platform games.
 
 ![World 2a - Amiga](https://github.com/user-attachments/assets/dc536c50-388e-4bd6-b063-348860995c90)
