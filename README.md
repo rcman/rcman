@@ -4,8 +4,6 @@
 Also Super Grok Images
 <br>
 
-![417256856-acd6de6e-8e24-49a5-acd6-3e2c04814b93](https://github.com/user-attachments/assets/5e47ee1d-7d1c-4b9f-b170-102f673d7cb4)
-
 <br>
 
 Love platform games.
