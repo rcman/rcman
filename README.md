@@ -5,7 +5,4 @@ Also Super Grok Images
 <br>
 
 <br>
-
-Love platform games.
-
-![World 2a - Amiga](https://github.com/user-attachments/assets/dc536c50-388e-4bd6-b063-348860995c90)
+![DALL·E 2025-02-18 08 13 41 - A high-resolution background image inspired by classic arcade helicopter games like Silkworm  The scene features a detailed battlefield with a militar](https://github.com/user-attachments/assets/e29fd589-16b8-41a5-acff-986da17f0913)
