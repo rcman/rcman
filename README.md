@@ -7,7 +7,7 @@ Also Super Grok Images
 Game Link:[HTML Games](http://github.com/rcman/html.games)
 
 <br>
+![f6ad3e71-43e1-459e-9d5e-4880df05e1e1](https://github.com/user-attachments/assets/109a315d-a8c5-4490-ad64-46b6cbac5d05)
 
 <br>
 
-![DALL·E 2025-02-18 08 13 41 - A high-resolution background image inspired by classic arcade helicopter games like Silkworm  The scene features a detailed battlefield with a militar](https://github.com/user-attachments/assets/e29fd589-16b8-41a5-acff-986da17f0913)
