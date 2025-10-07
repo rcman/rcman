@@ -1,4 +1,4 @@
-# Home of FGbasic
+# Home of FGBasic
 <br>
 <br>
 Also Super Grok Images
