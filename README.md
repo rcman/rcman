@@ -89,6 +89,7 @@ My Linux development toolkit:
 - **Wayland Focus** — Compositor utilities
 - **RC Commander** — Custom file manager
 - **Dev Setup Scripts** — Automated SDL2/Allegro environment setup with SCons
+- **BCC-500** - BCC-500 Emulator
 
 ### [DOSVM](https://github.com/rcman/DOSVM)
 Oracle VirtualBox DOS VM with Borland C++ and my GCDraw source — compile vintage graphics code
