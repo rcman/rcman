@@ -22,6 +22,7 @@ Tools and experiments for the classic DEC PDP-11 minicomputer.
 
 ### [Linux Apps](https://github.com/rcman/linuxapps)
 Native Linux applications and utilities.
+AI Tools and apps to do with ollama, llama.cpp, whisper and more
 
 ---
 
