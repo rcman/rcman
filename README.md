@@ -35,9 +35,32 @@ Browser-based game collection — play instantly in your browser
 ### [FGBasic](https://github.com/rcman/FGBASIC)
 A BASIC interpreter written in Java
 
+### [My Java Apps](https://github.com/rcman/my_java_apps)
+Collection of Java utilities:
+- **Model3D Viewer** — 3D model viewer
+- **Java Chat** — Chat application
+- **Java Editor** — Text/code editor
+- **JSON Editor** — JSON file editor
+- **RC Commander** — File manager
+
 ---
 
-## 🔧 Single Board Computers
+## 🤖 AI & Local LLMs
+
+### [ollama.cpp](https://github.com/rcman/ollama.cpp)
+**GUI client for llama.cpp** — Desktop chat application with:
+- Java & Python GUI implementations
+- Intel GPU support
+- Temperature, Top-P, Repeat Penalty controls
+- Prompt templates (ChatML, Llama2)
+- Conversation save/load, stop generation, token speed stats
+
+---
+
+## 🔧 Single Board Computers & Hardware
+
+### [Pico2 Laptop Adapter](https://github.com/rcman/pico2-Laptop-Adapter) ⭐ (2 stars)
+**Repurpose old laptop hardware with Raspberry Pi Pico 2** — Use any old laptop's keyboard, trackpad, and USB ports with your SBC. Includes Python keyboard editor and layout tools.
 
 ### [BPI-F3](https://github.com/rcman/BPI-F3) ⭐ (5 stars, 2 forks)
 **Ubuntu 24.04 on Banana Pi F3** — Complete guide for booting Ubuntu from SD card to NVME on the SpacemiT K1 RISC-V board. Includes kernel fixes, bootloader configs, and QEMU setup.
@@ -124,6 +147,7 @@ Classic Allegro game code from the Dev-C++ era
 - [supergrok-](https://github.com/rcman/supergrok-) — AI-assisted C++/SDL2 game remakes
 - [html.games](https://github.com/rcman/html.games) — Browser games
 - [FGBASIC](https://github.com/rcman/FGBASIC) — BASIC interpreter
+- [my_java_apps](https://github.com/rcman/my_java_apps) — Java utilities (3D viewer, editors, chat)
 
 </details>
 
@@ -146,8 +170,16 @@ Classic Allegro game code from the Dev-C++ era
 </details>
 
 <details>
+<summary><b>🤖 AI & Tools</b></summary>
+
+- [ollama.cpp](https://github.com/rcman/ollama.cpp) — GUI client for llama.cpp with Intel GPU support
+
+</details>
+
+<details>
 <summary><b>🔧 Hardware & SBCs</b></summary>
 
+- [pico2-Laptop-Adapter](https://github.com/rcman/pico2-Laptop-Adapter) — Reuse laptop keyboards/trackpads with Pico 2
 - [BPI-F3](https://github.com/rcman/BPI-F3) — Banana Pi RISC-V guide
 - [linuxapps](https://github.com/rcman/linuxapps) — Linux dev tools
 
