@@ -25,7 +25,9 @@ Native Linux applications and utilities.
 AI Tools and apps to do with ollama, llama.cpp, whisper and more
 
 ### [SDL2 Games](https://github.com/rcman/SDL2_2025)
+
 SDL2 and SDL3
+
 ---
 
 ## 🔧 Currently Working On
