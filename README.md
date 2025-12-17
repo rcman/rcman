@@ -28,6 +28,10 @@ AI Tools and apps to do with ollama, llama.cpp, whisper and more
 
 SDL2 and SDL3
 
+### [Xenix and Vax/VMS](https://github.com/rcman/clones)
+
+Emulators for Xenix, VAX/VMS - Also Emulator for SGI IRIX and OS/2
+
 ---
 
 ## 🔧 Currently Working On
