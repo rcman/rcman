@@ -20,6 +20,7 @@ Run vintage operating systems on **Raspberry Pi Pico/Pico 2 W**:
 | **BCC-500** - BCC-500 Emulator | Classic BCC-500 Emulator |
 | **AS/400** - AS/400 Emulator | AS/400 Emulator with Display |
 | **AS/400** - AS/400 TN5250 Emulator | AS/400 Emulator TN5250 Server |
+| **Westinghouse-C-H** Conversions to C | S00060-H FCT_FIRMWARE 68HC11/600 Assembly to C |
 
 *Updated for Pico 2 W — December 2025*
 
