@@ -17,7 +17,9 @@ Run vintage operating systems on **Raspberry Pi Pico/Pico 2 W**:
 | **OS/2 Clone** | IBM OS/2 environment |
 | **SGI IRIX** | Silicon Graphics workstation (Java) |
 | **68080 Emulator** | Motorola 68k architecture (WIP) |
-| **BCC-500** - BCC-500 Emulator |
+| **BCC-500** - BCC-500 Emulator | Classic BCC-500 Emulator |
+| **AS/400** - AS/400 Emulator | AS/400 Emulator |
+
 *Updated for Pico 2 W — December 2025*
 
 ---
