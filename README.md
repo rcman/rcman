@@ -75,6 +75,10 @@ Tools and experiments for the classic DEC PDP-11 minicomputer
 
 ---
 
+### [OS/2 Clones](https://github.com/rcman/OS2Code)
+Working on a functional clone of OS/2 Try the Simple-OS
+
+---
 ## 💾 Amiga Development
 
 ### [Amiga-UpdatedSource](https://github.com/rcman/Amiga-UpdatedSource) ⭐
