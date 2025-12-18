@@ -17,7 +17,7 @@ Run vintage operating systems on **Raspberry Pi Pico/Pico 2 W**:
 | **OS/2 Clone** | IBM OS/2 environment |
 | **SGI IRIX** | Silicon Graphics workstation (Java) |
 | **68080 Emulator** | Motorola 68k architecture (WIP) |
-
+| **BCC-500** - BCC-500 Emulator |
 *Updated for Pico 2 W — December 2025*
 
 ---
@@ -89,7 +89,7 @@ My Linux development toolkit:
 - **Wayland Focus** — Compositor utilities
 - **RC Commander** — Custom file manager
 - **Dev Setup Scripts** — Automated SDL2/Allegro environment setup with SCons
-- **BCC-500** - BCC-500 Emulator
+
 
 ### [DOSVM](https://github.com/rcman/DOSVM)
 Oracle VirtualBox DOS VM with Borland C++ and my GCDraw source — compile vintage graphics code
