@@ -18,6 +18,7 @@ Run vintage operating systems on **Raspberry Pi Pico/Pico 2 W**:
 | **SGI IRIX** | Silicon Graphics workstation (Java) |
 | **68080 Emulator** | Motorola 68k architecture (WIP) |
 | **BCC-500** - BCC-500 Emulator | Classic BCC-500 Emulator |
+| **BCC-500** - BCC-500 Work from the root | Cloned from an existing repo |
 | **AS/400** - AS/400 Emulator | AS/400 Emulator with Display |
 | **AS/400** - AS/400 TN5250 Emulator | AS/400 Emulator TN5250 Server |
 | **Westinghouse-C-H** Conversions to C | S00060-H FCT_FIRMWARE 68HC11/600 Assembly to C |
